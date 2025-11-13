@@ -1,0 +1,77 @@
+
+export const events = [
+  {
+    image: "/images/event1.png",
+    title: "React Summit 2024",
+    slug: "react-summit-2024",
+    location: "Amsterdam, Netherlands",
+    date: "June 14-18, 2024",
+    time: "9:00 AM - 6:00 PM",
+  },
+  {
+    image: "/images/event2.png",
+    title: "AI DevFest Hackathon",
+    slug: "ai-devfest-hackathon",
+    location: "San Francisco, CA",
+    date: "July 20-21, 2024",
+    time: "10:00 AM - 8:00 PM",
+  },
+  {
+    image: "/images/event3.png",
+    title: "Next.js Conf",
+    slug: "nextjs-conf",
+    location: "Virtual Event",
+    date: "October 24, 2024",
+    time: "12:00 PM - 5:00 PM PST",
+  },
+  {
+    image: "/images/event4.png",
+    title: "GraphQL Galaxy",
+    slug: "graphql-galaxy",
+    location: "Austin, TX",
+    date: "December 5-6, 2024",
+    time: "9:30 AM - 7:00 PM",
+  },
+  {
+    image: "/images/event5.png",
+    title: "DevOps World Summit",
+    slug: "devops-world-summit",
+    location: "London, UK",
+    date: "September 10-12, 2024",
+    time: "8:00 AM - 6:00 PM GMT",
+  },
+  {
+    image: "/images/event6.png",
+    title: "Web3 Builders Meetup",
+    slug: "web3-builders-meetup",
+    location: "New York, NY",
+    date: "August 15, 2024",
+    time: "6:00 PM - 9:00 PM",
+  },
+  {
+    image: "/images/event4.png",
+    title: "TypeScript Congress",
+    slug: "typescript-congress",
+    location: "Berlin, Germany",
+    date: "November 8-9, 2024",
+    time: "9:00 AM - 5:30 PM CET",
+  },
+  {
+    image: "/images/event6.png",
+    title: "Mobile Dev Summit",
+    slug: "mobile-dev-summit",
+    location: "Seattle, WA",
+    date: "October 3-4, 2024",
+    time: "10:00 AM - 6:00 PM",
+  },
+  {
+    image: "/images/event5.png",
+    title: "Cloud Native Con",
+    slug: "cloud-native-con",
+    location: "Chicago, IL",
+    date: "November 12-15, 2024",
+    time: "9:00 AM - 7:00 PM",
+  },
+];
+
+
